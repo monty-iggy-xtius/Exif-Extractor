@@ -29,8 +29,7 @@ $ Enter Path to image(s) folder: C:\Users\User\Pictures
 ## Author name
 [ignatius](https://github.com/monty-iggy-xtius/Exif-Extractor.git)
 
-## Live link
 ## Contact information
-Email-(monmihalo2324@gmail.com)
+You can reach out to me for collaborations or any questions on my [email](monmihalo2324@gmail.com)
 
 If you encounter any issues or have suggestions for improvements, please don't hesitate to [create an issue](https://github.com/monty-iggy-xtius/Exif-Extractor/issues).
