@@ -12,7 +12,7 @@ Before you run the script, ensure you have Python3 installed on your system
 1. After successfuly cloning this repo, change your working directory to the cloned repository:
 
 ```bash
-cd ExifReader
+cd Exif-Extractor
 ```
 
 2. Install required projects files using python's pip helper.
@@ -22,15 +22,15 @@ pip3 install -r requirements.txt
 
 3. After successfully installing the required libraries you can run the script using python3 and provide a directory containing images as the path
 ```bash
-$ python3 main.py
+> python3 main.py
 $ Enter Path to image(s) folder: C:\Users\User\Pictures
 ```
 
 ## Author name
-[ignatius](https://github.com/monty-iggy-xtius/WeatherApp.git)
+[ignatius](https://github.com/monty-iggy-xtius/Exif-Extractor.git)
 
 ## Live link
 ## Contact information
 Email-(monmihalo2324@gmail.com)
 
-If you encounter any issues or have suggestions for improvements, please don't hesitate to [create an issue](https://github.com/monty-iggy-xtius/WeatherApp/issues).
+If you encounter any issues or have suggestions for improvements, please don't hesitate to [create an issue](https://github.com/monty-iggy-xtius/Exif-Extractor/issues).
