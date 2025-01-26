@@ -25,6 +25,7 @@ pip3 install -r requirements.txt
 > python3 main.py
 $ Enter Path to image(s) folder: C:\Users\User\Pictures
 ```
+![exif-reader](https://github.com/user-attachments/assets/369d155f-4c5b-4f3f-bf39-d973a1811492)
 
 ## Author name
 [ignatius](https://github.com/monty-iggy-xtius/Exif-Extractor.git)
